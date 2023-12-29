@@ -1,0 +1,2 @@
+# Veritaban-
+Veri tabanı ödevi
